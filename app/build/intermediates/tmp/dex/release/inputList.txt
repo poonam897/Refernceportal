@@ -1,0 +1,3 @@
+D:\Apptitude\Refernceportal\app\build\intermediates\classes\release
+D:\Apptitude\Refernceportal\app\build\intermediates\pre-dexed\release\classes-ad00835870930e061c4156a63c287b2154ec8203.jar
+D:\Apptitude\Refernceportal\app\build\intermediates\pre-dexed\release\support-v4-18.0.0-f88ac5c2b2c20543538dc4735e950873e503ba19.jar

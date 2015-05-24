@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Apptitude\Refernceportal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="D:\Apptitude\Refernceportal\app\build\intermediates\pre-dexed\debug\classes-ad00835870930e061c4156a63c287b2154ec8203.jar" />
+    </item>
+    <item
+        jar="D:\ADT-Eclipse\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Apptitude\Refernceportal\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-f88ac5c2b2c20543538dc4735e950873e503ba19.jar" />
+    </item>
+
+</items>
