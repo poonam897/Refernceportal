@@ -73,29 +73,7 @@ public class NgoFragment extends Fragment implements LoaderManager.LoaderCallbac
         return rootView;
     }
 
- /*   public void onCreate(Bundle savedInstanceState)
-     {
-             super.onCreate(savedInstanceState);
-             setContentView(R.layout.ngodetails);
-         mListView=(ListView)findViewById(R.id.listView1);
-         ArrayList<Level> lv=new ArrayList<Level>();
-        mOpenHelper = new PortalDbHelper(this);
-        Cursor c = mOpenHelper.getAllRecords(PortalDbHelper.TABLE_NGO);
-         if(c.moveToFirst()){
-             int i=0;
-             do{
-                 lv.add(i,new Level(c.getString(c.getColumnIndex(PortalDbHelper.COLUMN_NAME)),
-                         c.getString(c.getColumnIndex(PortalDbHelper.COLUMN_ADDRESS)),
-                         c.getString(c.getColumnIndex(PortalDbHelper.COLUMN_NGO)),
-                         c.getString(c.getColumnIndex(PortalDbHelper.COLUMN_PHONE))));
-                 i++;
-             }while(c.moveToNext());
-         }
-            LevelAdapter adp=new LevelAdapter(getActivity(), R.layout.singleview1, lv);
-	            mListView.setAdapter(adp);
-    
-}
-*/
+
  @Override
  public Loader<Cursor> onCreateLoader(int id, Bundle args) {
      String sortOrder = NgoContract.NgoEntry._ID + " ASC";
